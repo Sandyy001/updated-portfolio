@@ -110,8 +110,7 @@ body.dark-theme {
 
 .dark-theme .home__shape-wawes,
 .dark-theme .home__shape-circle,
-.dark-theme .qualification__img,
-.dark-theme .testimonial {
+.dark-theme .qualification__img {
     filter: invert(1);
 }
 
@@ -647,6 +646,7 @@ body.dark-theme {
 
 .testimonial {
     position: relative;
+    color: var(--title-color);
 }
 
 .testimonial__content {
