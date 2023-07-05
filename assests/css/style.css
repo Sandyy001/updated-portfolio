@@ -228,6 +228,10 @@ body.dark-theme {
     }
 }
 
+.highlight {
+    color: red;
+}
+
 .nav__list {
     grid-template-columns: repeat(3, max-content);
     justify-content: center;
